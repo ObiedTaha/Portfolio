@@ -1,3 +1,3 @@
 # My-Portfolio
 
-https://obiedramadan.github.io/My-Portfolio/
+https://obiedtaha.github.io/Portfolio/
